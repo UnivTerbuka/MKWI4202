@@ -72,3 +72,7 @@ Untuk membantu Anda dalam mencapai tujuan-tujuan tersebut dalam modul ini akan d
 Selamat Belajar, Semoga Sukses!
 
 Sistematika dan ruang lingkup materi yang dibahas dalam  mata kuliah Belajar di Era Digital ini dapat Anda lihat pada peta kompetensi mata kuliah berikut.
+
+## Peta Kompetensi
+
+![Peta Kompetensi](media/peta-kompetensi.png)
