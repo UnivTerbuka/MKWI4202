@@ -54,7 +54,7 @@ Secara rinci, capaian pembelajaran umum mata kuliah tersebut dapat diraih, jika 
 
 Untuk mempermudah Anda mempelajarinya, materi dalam mata kuliah ini dikemas dalam 9 (sembilan) modul dengan susunan sebagai berikut.
 
-- Modul 1.
+- [Modul 1](modul-01/README.md).
   Karakteristik Pekerjaan di Era Digital, Pendidikan Tinggi di Era Digital, dan Literasi dan Keterampilan Digital, membahas tentang bagaimana dampak teknologi digital terhadap ekonomi dan industri yang dalam hal ini secara spesifik ditunjukkan  oleh karakteristik pekerjaan di era digital.
 - Modul 2.
   Pembelajaran Digital Alternatif; Mencari, Memilih, dan Mengevaluasi Materi Pembelajaran Terbuka; Membaca dan Mencatat Efektif Materi Pembelajaran, dan Menulis Refleksi membahas tentang MOOCs, penggunaan strategi pencarian online untuk menemukan, mengevaluasi dan memilih Sumber Pembelajaran Terbuka (OER) dan membuka akses sumber daya untuk mendukung pembelajaran.
@@ -89,3 +89,7 @@ Sistematika dan ruang lingkup materi yang dibahas dalam  mata kuliah Belajar di 
 ## Peta Kompetensi
 
 ![Peta Kompetensi](media/peta-kompetensi.png)
+
+***
+
+Selanjutnya [Modul 1](modul-01/README.md)
