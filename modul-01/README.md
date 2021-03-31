@@ -10,7 +10,7 @@ Seperti yang telah disinggung di atas, pengaruh teknologi digital sangat masif d
 
 Modul Pendidikan di Era Digital ini ini terdiri dari tiga Kegiatan Belajar yang masing-masing adalah
 
-1. Karakteristik Pekerjaan di Era Digtital,
+1. [Karakteristik Pekerjaan di Era Digtital](kb-01.md),
 2. Pendidikan Tinggi di Era Digital,
 3. Literasi dan Keterampilan Digital.
 
