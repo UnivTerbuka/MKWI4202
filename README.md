@@ -2,6 +2,19 @@
 
 Mata kuliah MKWI4202 Belajar di Era Digital yang berbobot 3 (tiga) SKS ini berisi materi tentang konsep, prinsip, aplikasi praktis yang berkaitan dengan apa dan bagaimana pembelajaran di era digital. Seluruh materi Belajar di Era Digital merupakan hasil adaptasi dari materi pembelajaran “Learning in Digital Age (LIDA 101-104) yang dikelola oleh OERu [https://oeru.org/](https://oeru.org/) dengan lisensi CC BY SA dan adaptasi dari beberapa materi yang ada di buku “Teaching in Digital Age” karangan Tony Bates  yang berlisensi CC BY NC.
 
+## Daftar Isi
+
+- [Belajar di Era Digital](#belajar-di-era-digital)
+  - [Daftar Isi](#daftar-isi)
+  - [Tinjauan Mata Kuliah](#tinjauan-mata-kuliah)
+  - [Konsep dan Prinsip Belajar di Era Digital](#konsep-dan-prinsip-belajar-di-era-digital)
+  - [Capaian Pembelajaran](#capaian-pembelajaran)
+  - [Modul](#modul)
+  - [Saran Belajar](#saran-belajar)
+  - [Peta Kompetensi](#peta-kompetensi)
+
+## Tinjauan Mata Kuliah
+
 Materi ini wajib dipahami oleh seluruh mahasiswa Universitas Terbuka. Mengapa demikian? Pada pembelajaran abad 21 dimulai dengan sebuah inovasi yang sering disebut dengan pembelajaran digital, online atau pembelajaran daring yang pada prinsipnya mengacu pada pembelajaran dengan berbantuan teknologi. Seiring dengan perkembangan teknologi informasi dan komunikasi yang sangat pesat, metode dan prinsip pembelajaran pun di perguruan tinggi juga mengalami perkembangan khususnya terkait dengan literasi digital dan informasi mahasiswa. Literasi digital dan informasi sangat penting bagi mahasiswa sebagai salah satu prasyarat untuk menjadi bagian dari masyarakat abad 21 yang sarat dengan penggunaan teknologi digital.
 
 Pada awal modul Anda akan mempelajari perkembangan perguruan tinggi di abad 21 khususnya terkait dampak perkembangan teknologi terhadap tuntutan komptensi dan kualifikasi SDM yang tentunya juga berpengaruh terhadap perguruan tinggi. Kemudian Anda akan mempelajari apa dampak dari tuntutan kompetensi digital tersebut pada modul modul modul selanjutnya. Anda juga akan mempelajari bagaimana pendidikan terbuka sebagai salah satu prinsip pendidikan yang semakin berkembang. Pendidikan terbuka menjadi sangat relevan dikarenakan didasari oleh budaya berbagi pengetahuan (the culture of knowledge sharing) yang merupakan budaya masyarakat di era digital. Pada akhir modul Anda akan mempelajari prinsip dan etika sebagai warga digital yang aktif, dan bertanggungjawab serta dapat melindungi diri Anda dari pelanggaran atau kejahatan digital.
